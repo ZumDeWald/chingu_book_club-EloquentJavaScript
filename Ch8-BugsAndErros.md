@@ -1,4 +1,4 @@
-# Chapter Seven - A Robot
+# Chapter Eight - Bugs and Errors
 
 Try your hand at the challenges outlined in chapter eight of the book. Then, feel free to add your solution following the style below!
 
