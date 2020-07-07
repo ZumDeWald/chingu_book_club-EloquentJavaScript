@@ -8,4 +8,4 @@ Try your hand at the challenges outlined in chapter eight of the book. Then, fee
 
 ## The Locked Box
 
-1. ZumDeWald --> [Same solution as above](https://codepen.io/ZumDeWald/pen/WNrELwV)
+1. ZumDeWald --> [Same solution as above](https://codepen.io/ZumDeWald/pen/qBboqVj)
